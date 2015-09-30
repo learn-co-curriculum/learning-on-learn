@@ -1,35 +1,27 @@
 # Learning On Learn
 
-## Outline
+Whew. You made it. Welcome to Learn! We're so thrilled to have you join our community of hungry developers, looking to learn to code in a way that actually prepares you to be a professional developer. Expect it to be a little bit more challenging than other online learning platform, but we know you're up for the challenge. And don't forget, we don't believe in Learning alone. As you make progress, expect to bump into other Learners just like you, and help each other succeed. 
 
-Objectives (Students will be able to):
+To recap: at this point, you've already created a Learn account, got a local development environment set up, and you've confirmed that that dev environment can talk to Lear. Great! And now, you're here you are in Learn, ready to start Learning.
 
-Explain that all the learning content on Learn is stored in Github
-Describe Github as a version control repository system that allows people to make revisions and work together on projects.
-Identify the different content types on Learn:
-Lesson, Lab, Quiz
-	You don’t have to use Lesson, but I don’t think a Readme or Reading is a proper word to use because a) labs have readmes b) if you’re adding videos, then they’re not strictly readmes. I think Lesson, Lab, Codealong Lab (which will distinguish it from just a regular spec lab), Codealong Lesson (since iOS doesn’t always have tests and for now, not all of our codealongs are test-driven so this can be a content type that will be phased out but should be used now), and Quiz is fine. If there’s a better word than Lesson (since a lab right now is a lesson), fine to use. Also up to you as to whether Code Challenges should be mentioned too.
-if you want to go into more detail on how information repeats in lessons, how certain labs are easy, and others will take a long time to work on, then here would be the time.
-Describe a track as a series of topics which are composed of a series of units which in turn are composed of primarily lessons and labs
-Use the Ask a Question function
+Before you start learning to code, it's worth spending a few minutes getting oriented. In the handful of lessons that follow, we'll walk you through a few things: 
 
+1. How content is organized on Learn
+2. How to use your Terminal
+3. How Learn uses Git & Github
+4. The workflow you'll use to learn to code on Learn
 
-## Overview
+Let's start by talking about different types of curriculum on Learn.
 
-As you make your way through content on Learn, you'll come across four types of lessons.
+## All about lessons
 
-(1) Readings
+We call the individual pieces of curriculum on Learn "lessons". A "track" is composed of many lessons, often organized into topics. On the left side, you'll see and be able to navigate this track. You can only view lessons that you've completed and your current lesson. You must complete a lesson before you're able to advance to the next one. 
 
-Simply read the material, or watch the videos in your browser. Use the "I'm done" button to signal that you've read the lesson and unlock the “Next Lesson” button.
+Broadly, there are two different types of lessons on Learn: labs and readings.
 
-(2) Quizzes
+1. **Labs** are lessons that have a lesson description that you'll read here on Learn, but also—and importantly—they have a coding exercise associated with them that you're intended to copy down to your computer to solve. In other words, in order to complete a lab, you need to write code. We'll tell you all about how to do this very soon. Once you've solved a lab, the idea you'll see the Next Lesson button light up on the right side of your screen on Learn. 
+2. **Readings** are lessons that only have instructional content here on Learn—that is to say, no coding exercise that you need to solve on your computer. They may sometimes involve videos to watch or even interactive quizzes to solve, but they don't involve writing code locally. Once you've completed a reading, you need to manually click the "I'm done" button on the right side of your screen. You should see the Next Lesson button light up, allowing you to proceed. 
 
-Read the material and then test what you’ve learned so far with a quiz. Once you’ve answered every quiz question in the lesson the “Quiz” light will turn green. You can use the “I’m done” button to signal you’ve completed the lesson, and unlock the “Next Lesson” button.
+Seeing as this lesson is a reading (that is, there is no code to write) you're now done and ready to go to the next lesson. Go ahead and click the "I'm Done" button now. 
 
-(3) Code Challenges
-
-Read the material and then test your code knowledge with these short coding challenges. Once you’ve finished every challenge for the lesson the Code Challenge light will turn green. You can use the “I’m done” button to signal you’ve completed the lesson, and unlock the “Next Lesson” button.
-
-(4) Code Labs
-
-This is the most interactive lesson type on Learn, and will test your skills while using a real developer workflow. You will need to do some work on your computer in order to solve the lesson and proceed. Below is some detailed information about how to complete a lab.
+Happy Learning!
