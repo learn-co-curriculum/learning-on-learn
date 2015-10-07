@@ -8,7 +8,7 @@ Learn is designed for people that are passionate, curious, self-driven, and abso
 
 Most people on Learn have already been learning to code a bit by using the amazing and plentiful resources all around the internet. The content on Learn makes no assumptions though and is designed for absolute beginners. However, if you find it impossibly challenging at first, ask for help and an instructor from the community will be so absolutely glad to help.
 
-Learn will demand you to be patient, resilient, resourceful, to work hard, be gritty, and never give up. Isn't that the kind of person you want to be? We think that's the kind of person you already are.
+Learn will demand you to be patient, resilient, resourceful, and gritty. Isn't that the kind of person you want to be? We think that's the kind of person you already are.
 
 We do our best to write curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter on Learn is rigorous. Expect it to be a little more challenging than other online learning platforms. We don't dumb anything down for you because we believe in your infinite capacity to learn.
 
