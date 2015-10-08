@@ -12,19 +12,19 @@ Learn will demand you to be patient, resilient, resourceful, and gritty. Isn't t
 
 We do our best to write curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter on Learn is rigorous. Expect it to be a little more challenging than other online learning platforms. We don't dumb anything down for you because we believe in your infinite capacity to learn.
 
-Finally, we don't believe in learning alone. As you make progress, expect to bump into other learners just like you, ready and willing to help each other succeed. Together we can go farther than we could ever go alone. We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is something special.
+Finally, we don't believe in learning alone. As you make progress, expect to bump into other learners just like you, ready and willing to help each other succeed. Together we can go further than we could ever go alone. We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is something special.
 
 ## Recap
 
-At this point, you've already created a Learn account, got a local development environment set up, and you've confirmed that that development environment can talk to Learn. Great!
+At this point, you've already created a Learn account, gotten a local development environment set up, and confirmed that that dev environment can talk to Learn. Great!
 
-Now, you're here! You are in Learn, ready to start Learning.
+Now, you're here in Learn, ready to start learning.
 
 Before you start learning, let's just get a little more familiar with how Learn works. In the handful of lessons that follow, we'll walk you through a few things:
 
 1. How content is organized on Learn
 2. How to use your Terminal
-3. How Learn uses Git & Github
+3. How Learn uses Git & GitHub
 4. The workflow you'll use to learn to code on Learn
 
 Let's start by talking about different types of curriculum on Learn.
@@ -73,7 +73,7 @@ You're going to have to do a lot of reading on Learn. We know other platforms ma
 
 Some READMEs also contain brief interactive elements such as quizzes or little in-browser coding challenges.
 
-Once you've completed a README, you should click the "I'm done" button on the right. The "Next Lesson" button will light up, allowing you to proceed.
+Once you've completed a README, you should click the "I'm Done" button on the right. The "Next Lesson" button will light up, allowing you to proceed.
 
 ![Mark as Done](https://dl.dropboxusercontent.com/s/beuipk0utcrxkxi/2015-09-30%20at%209.59%20PM.png)
 
