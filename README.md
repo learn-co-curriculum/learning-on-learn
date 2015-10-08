@@ -55,7 +55,7 @@ Labs are lessons that have a coding challenge you must complete. A lab will requ
 
 All labs include a README that you will see on Learn. The lab README will describe the objectives, overview, and instructions for the code you must write. You should definitely read the lab README. If you're confused at any point, go back to the README.
 
-In the following lessons, we're going to show you how to use `git` and `GitHub` to work on a lab and how to automate everything by using our `Learn CLI`.
+In the following lessons, we're going to show you how to use `git` and GitHub to work on a lab and how to automate everything by using our `learn` CLI.
 
 You'll know if a lesson on Learn is a lab by the actions the right column asks you to take. Labs will display the following in the right:
 
