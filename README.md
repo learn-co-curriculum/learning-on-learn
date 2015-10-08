@@ -1,4 +1,4 @@
-# Learning On Learn
+# Welcome
 
 Welcome to Learn! We're so thrilled you've joined our community of learners!
 
