@@ -1,22 +1,22 @@
 # Welcome
 
-Welcome to Learn! We're so thrilled you've joined our community of learners!
+Welcome to Learn! We're thrilled that you've joined our community of learners!
 
 ## The Learn Community
 
-Learn is designed for people that are passionate, curious, self-driven, and absolutely serious about learning to code. We are on a never ending quest for knowledge and we know there are no shortcuts.
+Learn is designed for people who are passionate, curious, self-driven, and absolutely serious about learning to code. We are on a never ending quest for knowledge and we know there are no shortcuts.
 
-Most people on Learn have already been learning to code a bit by using the amazing and plentiful resources all around the internet. The content on Learn makes no assumptions though and is designed for absolute beginners. However, if you find it impossibly challenging at first, ask for help and an instructor from the community will be so absolutely glad to help.
+Most people on Learn have already been learning to code a bit by using the amazing and plentiful resources all around the internet. However, in developing the content on Learn, we made no assumptions; it is designed for absolute beginners. However, if you find it impossibly challenging at first, ask for help and an instructor from the community will be glad to help.
 
-Learn will demand you to be patient, resilient, resourceful, and gritty. Isn't that the kind of person you want to be? We think that's the kind of person you already are.
+Learn will demand that you be patient, resilient, resourceful, and gritty. Isn't that the kind of person you want to be? We think that's the kind of person you already are.
 
-We do our best to write curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter on Learn is rigorous. Expect it to be a little more challenging than other online learning platforms. We don't dumb anything down for you because we believe in your infinite capacity to learn.
+We do our best to offer a curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter on Learn is rigorous. Expect it to be a little more challenging than other online learning platforms. We don't dumb anything down for you because we believe in your infinite capacity to learn.
 
-Finally, we don't believe in learning alone. As you make progress, expect to bump into other learners just like you, ready and willing to help each other succeed. Together we can go further than we could ever go alone. We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is something special.
+Finally, we don't believe in learning alone. As you make progress, expect to bump into other learners just like you, ready and willing to help each other succeed. Together, we can go further than we could ever go alone. We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is something special.
 
 ## Recap
 
-At this point, you've already created a Learn account, gotten a local development environment set up, and confirmed that that dev environment can talk to Learn. Great!
+At this point, you've already created a Learn account, set up your local development environment, and confirmed that your dev environment can talk to Learn. Great!
 
 Now, you're here in Learn, ready to start learning.
 
@@ -27,21 +27,21 @@ Before you start learning, let's just get a little more familiar with how Learn 
 3. How Learn uses Git & GitHub
 4. The workflow you'll use to learn to code on Learn
 
-Let's start by talking about different types of curriculum on Learn.
+Let's start by talking about the different parts of the curriculum on Learn.
 
 ## All About Lessons
 
-The individual pieces of curriculum on Learn are called "lessons".
+The individual pieces of curriculum on Learn are called "lessons."
 
 ### Tracks and Navigation
 
 A "track" is composed of many lessons, often organized into topics.
 
-The column to the left is the Track Navigation, allowing you to expand topics and units and move around lessons.
+The column to the left is the Track Navigation, which allows you to expand topics and units and move between lessons.
 
 ![Navigation](https://dl.dropboxusercontent.com/s/0wsaxtpb8ew5jad/2015-09-30%20at%209.37%20PM.png)
 
-You must complete a lesson before you're able to advance to a future one.
+You must complete a lesson before you advance to the next one.
 
 Lessons you've completed will be filled in with a green circle and your current lesson will be orange.
 
@@ -51,7 +51,7 @@ There are two types of lessons on Learn: READMEs and Labs.
 
 #### Labs
 
-Labs are lessons that have a coding challenge you must complete. A lab will require you to write code and submit a solution.
+Labs are lessons that have a coding challenge that you must complete. A lab will require you to write code and submit a solution.
 
 All labs include a README that you will see on Learn. The lab README will describe the objectives, overview, and instructions for the code you must write. You should definitely read the lab README. If you're confused at any point, go back to the README.
 
